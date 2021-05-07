@@ -1,27 +1,68 @@
 ---
-description: "A guide to voting on MakerDAO governance."
+title: How Voting Works
+order: 3
+hideLanguageSelector: true
+keywords: "voting, governance"
+description: "How voting works in the Maker Protocol."
 ---
 
-MakerDAO is a decentralized governance community that enables the generation of Dai, the world’s leading decentralized stablecoin. The decentralized governance community of MakerDAO manages the generation of Dai through an embedded governance mechanism within the Maker Protocol.
+# Voting
 
-Voting requires Maker (MKR) tokens. MKR holders have the sole authority to enact changes to the system through voting.
+## A Guide to Participating in MakerDAO Governance
 
-Voting takes place on the [Governance Portal](https://vote.makerdao.com/).
+Voting requires [Maker (MKR) tokens](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token) and takes place on the [Governance Portal](https://vote.makerdao.com/).
+
+The Governance Portal lists Governance Polls and Executive Votes and the Voting Contract section lets users set up and manage their voting contracts.
+
+This guide describes the Voting Contract responsible for facilitating on-chain voting in the form of Governance Polls and Executive Votes conducted to maintain the Maker Protocol.
 
 ## The Voting Contract
 
 To vote, MKR owners must "lock-up" tokens by transferring them into the Voting Contract. Votes are weighted based on the quantity of MKR locked in the contract. "Locked" MKR can be withdrawn at any time.
 
-Voting is weighted by the amount of MKR that votes for a proposal.
+MKR token holders have the option to set up their Voting Contract with a single hot or cold wallet, or, as a linked wallet, for more secure voting.
+
+The linked wallet setup allows users to vote using a hot wallet, with MKR stored on a cold wallet.
+
+### Voting Wallet Setup
+
+Maker (MKR) token holders can set up their Voting Contract using a single hot or cold wallet or a linked-wallet setup for greater security.
+
+#### Linked-Wallet Voting
+
+With linked-wallet voting, MKR holders can use their wallet to vote with MKR safely stored on their cold wallet.
+
+The hot wallet has permission to manage the voting contract but not to transfer tokens. If the hot wallet is compromised, the link can be broken from the cold wallet so MKR stored on the cold wallet will remain safe and unaffected if a hot wallet is compromised.
+
+Users can avoid the Vote Proxy by depositing Maker (MKR) tokens directly into the voting contract. While single wallet voting is less secure, the initial setup is more convenient. Users who store MKR on MetaMask or other web wallets may find it to be the easiest way to start voting.
+
+<CTA>
+
+
+Please see our guide to [Voting Wallet Setup.](/learn/governance/voting-setup/)
+
+</CTA>
+
 
 ### Contract Setup and Voting Costs
 
 Voting requires a single transaction and typically costs a few cents per vote. The total amount varies depending on network congestion.
 
+Setting up a linked-wallet Voting Contract takes four transactions for a total of approximately 1M gas. The cost of setting up a linked-wallet Voting Contract is split between the hot and cold wallets so please ensure both wallets contain Ether (ETH).
+
+<Callout>
+
+
+Find more information in the Maker Foundation’s blog post on the [MakerDAO Voting Proxy Contract](https://blog.makerdao.com/the-makerdao-voting-proxy-contract/).
+
+</Callout>
+
+
 ## Governance Polls and Executive Votes
 
 **How is the voting calculated?**
 
+Voting is weighted by the amount of MKR that votes for a proposal.
 
 For example, if 50 stakeholders hold a total of 600 MKR and vote for proposal A, while 100 stakeholders hold a total of 400 MKR and vote for proposal B, then Proposal A would win with 60% of the vote.
 
@@ -35,9 +76,12 @@ MKR is locked in the Voting Contract that was set up by the voter. This MKR is o
 
 Governance Polls occur on-chain and are used to measure the sentiment of MKR voters. They can be accessed through the the [Polling page](https://vote.makerdao.com/polling) in the Maker Foundation's [Governance Portal](https://vote.makerdao.com).
 
-[Polls](https://vote.makerdao.com/polling) often run concurrently, allowing voters to participate in any number of them at the same time and some use [instant run-off](https://ballotpedia.org/Ranked-choice_voting_(RCV)) so you can select multiple options.z
+[Polls](https://vote.makerdao.com/polling) often run concurrently, allowing voters to participate in any number of them at the same time and some use [instant run-off](<https://ballotpedia.org/Ranked-choice_voting_(RCV)>) so you can select multiple options.z
 
 The current schedule calls for polls to 'go live' on a weekly basis every Monday at 16:00 UTC.
+
+<CTA>
+
 
 MKR holders may be asked to:
 
@@ -52,6 +96,9 @@ MKR holders may be asked to:
 - Determine which values certain system parameters should be set to before those values are then confirmed in an executive vote.
 
 - Ratify risk parameters for new collateral types as presented by Risk Teams.
+
+</CTA>
+
 
 Here is an example of voting in action in the Governance Portal:
 
@@ -87,6 +134,9 @@ Unlike the other types of votes, Executive Votes use a 'Continuous Approval Voti
 
 Executive Vote can occur at any time, however the current schedule calls for Executive Votes to go live on Fridays 12pm EST/9am PST/14:00 UTC
 
+<CTA>
+
+
 Executive Votes can be used to:
 
 - Add or remove collateral types.
@@ -98,6 +148,9 @@ Executive Votes can be used to:
 - Adjust Vault-specific parameters.
 
 - Replace modular smart contracts.
+
+</CTA>
+
 
 Anyone can create an on-chain Executive Vote using the MakerDAO governance contracts, however, there is no non-technical UI available to do this.
 
@@ -113,6 +166,9 @@ Continuous Approval Voting means that competing proposals may be introduced any 
 
 The Executive Vote represents the current state of the system and is therefore continuously active.
 
+<CTA>
+
+
 There are three aspects to consider with regard to Continuous Approval Voting:
 
 - A vote creates a barrier for new proposals, since new proposals need to surpass the voting weight of the last successful proposal.
@@ -120,6 +176,9 @@ There are three aspects to consider with regard to Continuous Approval Voting:
 - Votes are meant to remain in the system continuously in order to prevent bad proposals from passing easily.
 
 - The more votes there are on the current state of the system, the more secure the system generally is from any "rogue" proposals.
+
+</CTA>
+
 
 With Continuous Approval Voting, the continuity of staked votes challenges and reinforces the status quo of the system through movements of the majority of votes between the most recent successful proposal and new proposals.
 
