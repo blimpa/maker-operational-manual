@@ -1,11 +1,3 @@
----
-title: Governance FAQs
----
-
-# Governance
-
-In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](/learn/governance/how-voting-works/) for a more detailed guide on how to begin voting.
-
 ## What is Governance?
 
 Governance is the process of interaction and decision-making among the stakeholders of a given system or organization. It is also the way rules, norms and actions are structured, sustained, regulated and upheld.

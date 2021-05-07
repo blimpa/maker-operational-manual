@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Governance
-* [Governance FAQ](./content/Governance/governance-faq.md)
+* [Governance Crash Course](./content/Governance/governance-faq.md)
 
 ## Voting
 * [Essentials](./content/Governance/voting-essentials.md)
@@ -12,14 +12,13 @@
 * [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
 * [Common Topics](./content/Governance/common-topics.md)
 * [Emergency Shutdown](./content/Governance/emergency-shutdown.md)
-* [Glossary](./content/Governance/Glossary.md)
 * [Governance Risk Framework I](./content/Governance/gov-risk-framework.md)
 * [Governance Risk Framework II](./content/Governance/gov-risk-framework2.md)
 * [Governance Risk Framework III](./content/Governance/gov-risk-framework3.md)
-* [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
-* [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
-* [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
-* [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
+* [Module DC-IAM](./content/Governance/module-dciam.md)
+* [Module PSM](./content/Governance/module-psm.md)
+* [Off-Chain Governanec](./content/Governance/off-chain-gov.md)
+* [On-Chain Governance](./content/Governance/on-chain-gov.md)
 
 ## Parameters
 * [Price Function](.content/Reference/param-auction-price-function.md)
@@ -38,3 +37,5 @@
 * [Stability Fee](.content/Reference/param-stability-fee.md)
 * [System Surpluss](.content/Reference/param-system-surplus.md)
 
+## Reference
+* [Glossary](./content/Governance/Glossary.md)
