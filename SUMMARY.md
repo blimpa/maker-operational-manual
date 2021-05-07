@@ -6,10 +6,10 @@
 
 ## Voting
 * [Essentials](./content/Governance/voting-essentials.md)
+* [MKR Token](./content/Governance/mkr-token.md)
 * [Wallet Setup](./content/Governance/voting-wallet-setup.md)
 
 ## The Protocol
-* [MKR Token](./content/Governance/mkr-token.md)
 * [Dai](./content/Governance/dai.md)
 * [DSR](./content/Governance/dsr.md)
 * [Vaults](./content/Governance/vault.md)
