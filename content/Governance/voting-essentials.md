@@ -1,4 +1,4 @@
-Voting requires [Maker (MKR) tokens](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token) and takes place on the [Governance Portal](https://vote.makerdao.com/).
+Voting requires [Maker (MKR) tokens](./content/Reference/glossary.md#Maker-Token-(MKR)) and takes place on the [Governance Portal](https://vote.makerdao.com/).
 
 The Governance Portal lists Governance Polls and Executive Votes and the Voting Contract section lets users set up and manage their voting contracts.
 
