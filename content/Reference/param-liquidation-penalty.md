@@ -1,20 +1,3 @@
----
-title: Parameter - Liquidation Penalty
-keywords: "liquidation, penalty, chop"
----
-
-# Liquidation Penalty
-
-```
-
-Alias: Liquidation Penalty
-Parameter Name: chop
-Containing Contract: Dog
-Scope: Vault Type (Ilk)
-Technical Docs:
-
-```
-
 ## Description
 
 The Liquidation Penalty parameter controls the fee vault owners must pay when their position is liquidated due to insufficient collateral. For a vault holder to receive any collateral back from the liquidations process, the debt and Liquidation Penalty must be covered by the collateral auction.

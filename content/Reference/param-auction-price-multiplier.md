@@ -1,20 +1,3 @@
----
-title: Parameter - Auction Price Multiplier
-keywords: "auction, price, multiplier, buf"
----
-
-# Auction Price Multiplier
-
-```
-
-Alias: Auction Price Multiplier
-Parameter Name: buf
-Containing Contract: Clipper
-Scope: Vault Type (Ilk)
-Technical Docs:
-
-```
-
 ## Description
 
 The Auction Price Multiplier parameter is a multiplier that is applied to the starting price of a collateral auction.

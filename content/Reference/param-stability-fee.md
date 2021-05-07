@@ -1,18 +1,3 @@
----
-title: Parameter - Stability Fee
-keywords: "duty, stability fee"
----
-
-# Stability Fee
-
-```
-Alias: N/A
-Parameter Name: duty
-Containing Contract: Jug
-Scope: Ilk
-Technical Docs: https://docs.makerdao.com/smart-contract-modules/rates-module/jug-detailed-documentation
-```
-
 ## Description
 
 The Stability Fee parameter is an annual percentage fee charged on the DAI generated on vaults. It is expressed as an annual percentage yield but it is charged on a per-block basis in DAI. The DAI from this fee is minted, added to the DAI debt for the vault, and then transferred into the Surplus Buffer which is under the control of Maker Governance.
