@@ -1,9 +1,11 @@
 # Table of contents
 
 ## Voting
-* [Voting Essentials](./content/Governance/voting-essentials.md)
+* [Essentials](./content/Governance/voting-essentials.md)
+* [Wallet Setup](./content/Governance/voting-wallet-setup.md)
 
 ## The Protocol
+* [MKR Token]
 * [Maker Operational Manual](README.md)
 * [Maker Operational Manual](README.md)
 * [Maker Operational Manual](README.md)
