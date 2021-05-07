@@ -1,12 +1,12 @@
 # Table of contents
 
-## First Steps
-* [What is MakerDAO?](./content/First Steps/what-is-makerdao.md)
-### [Governance]
-* [Voting](./content/Governance/how-to-vote.md)
-## [Community](README.md)
+## Voting
+* [Voting Essentials](./content/Governance/voting-essentials.md)
 
-## Ulterior Steps
+## The Protocol
 * [Maker Operational Manual](README.md)
 * [Maker Operational Manual](README.md)
 * [Maker Operational Manual](README.md)
+
+## Reference
+* [Glossary](.content/Reference/glossary.md)
