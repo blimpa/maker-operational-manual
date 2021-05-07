@@ -1,3 +1,5 @@
+# Debt Floor
+
 ## Description
 
 The Debt Floor parameter controls the minimum amount of DAI that can be minted using a specific vault type for an individual vault. If a user tries to mint DAI and the amount of DAI minted would not put the vault's amount of DAI minted above its Debt Floor, the transaction will fail and no DAI will be minted. Likewise, if a user attempts to pay back debt such that their debt will equal less than the Debt Floor and greater than zero, the transaction will fail and no DAI will be paid back.

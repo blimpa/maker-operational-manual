@@ -1,3 +1,5 @@
+# Debt Ceiling
+
 ## Description
 
 The Debt Ceiling parameter controls the maximum amount of DAI that can be minted using a specific vault type across all vault users. If a user tries to mint DAI and the amount of DAI minted would put the vault type's amount of DAI minted above its Debt Ceiling, the transaction will fail and no DAI will be minted.

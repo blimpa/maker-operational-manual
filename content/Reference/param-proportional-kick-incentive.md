@@ -1,3 +1,5 @@
+# Proportional Kick Incentive
+
 ## Description
 
 The Proportional Kick Incentive parameter represents a reward in DAI paid to the keepers that trigger collateral liquidation auctions in the Maker Protocol.

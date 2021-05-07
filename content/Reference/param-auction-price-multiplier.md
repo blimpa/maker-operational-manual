@@ -1,3 +1,5 @@
+# Auction Price Multiplier
+
 ## Description
 
 The Auction Price Multiplier parameter is a multiplier that is applied to the starting price of a collateral auction.
