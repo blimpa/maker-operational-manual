@@ -1,16 +1,6 @@
----
-title: Important Topics
-order: 3
-hideLanguageSelector: true
-keywords: "makerdao, maker, governance, "
-description: "Frequent topics of discussion in Maker governance."
----
-
-# Important Topics
-
 ## Security
 
-Maker (MKR) token holders are responsible for maintaining the security of the Maker Protcol.
+Maker (MKR) token holders are responsible for maintaining the security of the Maker Protocol.
 
 This means addressing risks associated with the correct and secure functioning of the Maker Protocol. These risks may include:
 

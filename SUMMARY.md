@@ -1,24 +1,29 @@
 # Table of contents
 
 ## Governance
+* [MakerDAO](./content/Governance/makerdao.md)
 * [Governance Crash Course](./content/Governance/governance-faq.md)
 
 ## Voting
 * [Essentials](./content/Governance/voting-essentials.md)
 * [Wallet Setup](./content/Governance/voting-wallet-setup.md)
-* [MKR Token](./content/Governance/mkr-token.md)
 
 ## The Protocol
-* [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
-* [Common Topics](./content/Governance/common-topics.md)
-* [Emergency Shutdown](./content/Governance/emergency-shutdown.md)
+* [MKR Token](./content/Governance/mkr-token.md)
+* [Dai](./content/Governance/dai.md)
+* [DSR](./content/Governance/dsr.md)
+* [Vaults](./content/Governance/vault.md)
+* [Stability Fees](./content/Governance/stability-fee.md)
+* [Oracles](./content/Governance/oracles.md)
+* [Liquidation](./content/Governance/liquidation.md)
 * [Governance Risk Framework I](./content/Governance/gov-risk-framework.md)
 * [Governance Risk Framework II](./content/Governance/gov-risk-framework2.md)
 * [Governance Risk Framework III](./content/Governance/gov-risk-framework3.md)
 * [Module DC-IAM](./content/Governance/module-dciam.md)
 * [Module PSM](./content/Governance/module-psm.md)
-* [Off-Chain Governanec](./content/Governance/off-chain-gov.md)
-* [On-Chain Governance](./content/Governance/on-chain-gov.md)
+* [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
+* [Emergency Shutdown](./content/Governance/emergency-shutdown.md)
+* [Common Topics](./content/Governance/common-topics.md)
 
 ## Parameters
 * [Price Function](.content/Reference/param-auction-price-function.md)
