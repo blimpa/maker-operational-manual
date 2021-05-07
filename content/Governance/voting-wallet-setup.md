@@ -1,7 +1,5 @@
 ---
 title: Voting Wallet Setup
-order: 3
-hideLanguageSelector: true
 keywords: "makerdao, maker, governance, on-chain, off-chain, voting, voter, onboarding"
 description: "A guide to voting on MakerDAO governance."
 ---

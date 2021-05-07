@@ -1,8 +1,14 @@
-Voting requires [Maker (MKR) tokens](./content/Reference/glossary.md#Maker-Token-(MKR)) and takes place on the [Governance Portal](https://vote.makerdao.com/).
+---
+title: Voting Essentials
+keywords: "makerdao, maker, governance, on-chain, off-chain, voting, voter, onboarding"
+description: "A guide to voting on MakerDAO governance."
+---
 
-The Governance Portal lists Governance Polls and Executive Votes and the Voting Contract section lets users set up and manage their voting contracts.
+MakerDAO is a decentralized governance community that enables the generation of Dai, the world’s leading decentralized stablecoin. The decentralized governance community of MakerDAO manages the generation of Dai through an embedded governance mechanism within the Maker Protocol.
 
-This guide describes the Voting Contract responsible for facilitating on-chain voting in the form of Governance Polls and Executive Votes conducted to maintain the Maker Protocol.
+Voting requires Maker (MKR) tokens. MKR holders have the sole authority to enact changes to the system through voting.
+
+Voting takes place on the [Governance Portal](https://vote.makerdao.com/).
 
 ## The Voting Contract
 
