@@ -1,7 +1,7 @@
 # Table of contents
 
 ## First Steps
-* [What is the Maker Protocol?](./docs/the_protocol.md)
+* [What is MakerDAO?](./docs/what-is-makerdao.md)
 * [Governance](README.md)
 * [Community](README.md)
 
