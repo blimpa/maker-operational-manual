@@ -40,7 +40,7 @@
 * [Max Auction Duration](./content/Reference/param-max-auction-duration.md)
 * [Proportional Kick Incentive](./content/Reference/param-proportional-kick-incentive.md)
 * [Stability Fee](./content/Reference/param-stability-fee.md)
-* [System Surpluss](./content/Reference/param-system-surplus.md)
+* [System Surplus](./content/Reference/param-system-surplus-buffer.md)
 
 ## Reference
 * [Glossary](./content/Governance/Glossary.md)
