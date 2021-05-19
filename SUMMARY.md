@@ -9,15 +9,15 @@
 * [Voting]()
   * [Essentials](voting/voting-essentials/README.md)
   * [Wallet Setup](voting/voting-essentials/voting-wallet-setup.md)
-  * [MKR Token](voting/voting-essentials/mkr-token.md)
 
 ## The Protocol
 
 * [Tokens]()
   * [Dai](the-protocol/dai.md)
-  * [DSR](the-protocol/dsr.md)
+  * [MKR Token](voting/voting-essentials/mkr-token.md)
 * [Vaults](the-protocol/vault.md)
 * [Stability Fees](the-protocol/stability-fee.md)
+* [DSR](the-protocol/dsr.md)
 * [Oracles](the-protocol/oracles.md)
 * [Liquidation](the-protocol/liquidation.md)
 * [Modules]()
