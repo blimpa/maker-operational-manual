@@ -4,31 +4,36 @@
 
 ## Governance
 
-* [MakerDAO](governance/makerdao.md)
+* [What is MakerDAO?](governance/makerdao.md)
 * [Governance Crash Course](governance/governance-faq.md)
-
-## Voting
-
- * [Essentials](voting/voting-essentials/README.md)
- * [Wallet Setup](voting/voting-essentials/voting-wallet-setup.md)
- * [MKR Token](voting/voting-essentials/mkr-token.md)
+* [Voting]()
+  * [Essentials](voting/voting-essentials/README.md)
+  * [Wallet Setup](voting/voting-essentials/voting-wallet-setup.md)
+  * [MKR Token](voting/voting-essentials/mkr-token.md)
 
 ## The Protocol
 
-* [Dai](the-protocol/dai.md)
-* [DSR](the-protocol/dsr.md)
-* [Vaults](the-protocol/vault.md)
-* [Stability Fees](the-protocol/stability-fee.md)
-* [Oracles](the-protocol/oracles.md)
-* [Liquidation](the-protocol/liquidation.md)
-* [Governance Risk Framework I](the-protocol/gov-risk-framework.md)
-* [Governance Risk Framework II](the-protocol/gov-risk-framework2.md)
-* [Governance Risk Framework III](the-protocol/gov-risk-framework3.md)
-* [Module DC-IAM](the-protocol/module-dciam.md)
-* [Module PSM](the-protocol/module-psm.md)
+* [Tokens]()
+  * [Dai](the-protocol/dai.md)
+  * [DSR](the-protocol/dsr.md)
+* [Economics]()
+  * [Vaults](the-protocol/vault.md)
+  * [Stability Fees](the-protocol/stability-fee.md)
+  * [Oracles](the-protocol/oracles.md)
+  * [Liquidation](the-protocol/liquidation.md)
+* [Modules]()
+  * [Module DC-IAM](the-protocol/module-dciam.md)
+  * [Module PSM](the-protocol/module-psm.md)
+
+## Guides
+
+* [Common Topics](the-protocol/common-topics.md)
+* [Risk Management]()
+  * [Governance Risk Framework I](the-protocol/gov-risk-framework.md)
+  * [Governance Risk Framework II](the-protocol/gov-risk-framework2.md)
+  * [Governance Risk Framework III](the-protocol/gov-risk-framework3.md)
 * [Auditing Executive Spells](the-protocol/audit-exec-spells.md)
 * [Emergency Shutdown](the-protocol/emergency-shutdown.md)
-* [Common Topics](the-protocol/common-topics.md)
 
 ## Parameters
 
