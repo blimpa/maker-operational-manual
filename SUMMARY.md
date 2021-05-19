@@ -9,9 +9,10 @@
 
 ## Voting
 
-* [Essentials](voting/voting-essentials/README.md)
-  * [Wallet Setup](voting/voting-essentials/voting-wallet-setup.md)
-  * [MKR Token](voting/voting-essentials/mkr-token.md)
+* [Test]()
+  * [Essentials](voting/voting-essentials/README.md)
+    * [Wallet Setup](voting/voting-essentials/voting-wallet-setup.md)
+    * [MKR Token](voting/voting-essentials/mkr-token.md)
 
 ## The Protocol
 
