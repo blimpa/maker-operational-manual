@@ -1,46 +1,54 @@
 # Table of contents
 
+* [Introduction](README.md)
+
 ## Governance
-* [MakerDAO](./content/Governance/makerdao.md)
-* [Governance Crash Course](./content/Governance/governance-faq.md)
+
+* [MakerDAO](governance/makerdao.md)
+* [Governance Crash Course](governance/governance-faq.md)
 
 ## Voting
-* [Essentials](./content/Governance/voting-essentials.md)
-* [MKR Token](./content/Governance/mkr-token.md)
-* [Wallet Setup](./content/Governance/voting-wallet-setup.md)
+
+* [Essentials](voting/voting-essentials/README.md)
+  * [Wallet Setup](voting/voting-essentials/voting-wallet-setup.md)
+  * [MKR Token](voting/voting-essentials/mkr-token.md)
 
 ## The Protocol
-* [Dai](./content/Governance/dai.md)
-* [DSR](./content/Governance/dsr.md)
-* [Vaults](./content/Governance/vault.md)
-* [Stability Fees](./content/Governance/stability-fee.md)
-* [Oracles](./content/Governance/oracles.md)
-* [Liquidation](./content/Governance/liquidation.md)
-* [Governance Risk Framework I](./content/Governance/gov-risk-framework.md)
-* [Governance Risk Framework II](./content/Governance/gov-risk-framework2.md)
-* [Governance Risk Framework III](./content/Governance/gov-risk-framework3.md)
-* [Module DC-IAM](./content/Governance/module-dciam.md)
-* [Module PSM](./content/Governance/module-psm.md)
-* [Auditing Executive Spells](./content/Governance/audit-exec-spells.md)
-* [Emergency Shutdown](./content/Governance/emergency-shutdown.md)
-* [Common Topics](./content/Governance/common-topics.md)
+
+* [Dai](the-protocol/dai.md)
+* [DSR](the-protocol/dsr.md)
+* [Vaults](the-protocol/vault.md)
+* [Stability Fees](the-protocol/stability-fee.md)
+* [Oracles](the-protocol/oracles.md)
+* [Liquidation](the-protocol/liquidation.md)
+* [Governance Risk Framework I](the-protocol/gov-risk-framework.md)
+* [Governance Risk Framework II](the-protocol/gov-risk-framework2.md)
+* [Governance Risk Framework III](the-protocol/gov-risk-framework3.md)
+* [Module DC-IAM](the-protocol/module-dciam.md)
+* [Module PSM](the-protocol/module-psm.md)
+* [Auditing Executive Spells](the-protocol/audit-exec-spells.md)
+* [Emergency Shutdown](the-protocol/emergency-shutdown.md)
+* [Common Topics](the-protocol/common-topics.md)
 
 ## Parameters
-* [Price Function](./content/Reference/param-auction-price-function.md)
-* [Auction Price Multiplier](./content/Reference/param-auction-price-multiplier.md)
-* [Breaker Price Tolerance](./content/Reference/param-breaker-price-tolerance.md)
-* [Debt Ceiling](./content/Reference/param-debt-ceiling.md)
-* [Debt Floor](./content/Reference/param-debt-floor.md)
-* [Flat Kick Incentive](./content/Reference/param-flat-kick-incentive.md)
-* [Global Liquidation Limit](./content/Reference/param-global-liquidation-limit.md)
-* [GSM Pause Delay](./content/Reference/param-gsm-pause-delay.md)
-* [Liquidation Ratio](./content/Reference/param-liquidation-ratio.md)
-* [Local Liquidation Limit](./content/Reference/param-local-liquidation-limit.md)
-* [Max Auction Drawdown](./content/Reference/param-max-auction-drawdown.md)
-* [Max Auction Duration](./content/Reference/param-max-auction-duration.md)
-* [Proportional Kick Incentive](./content/Reference/param-proportional-kick-incentive.md)
-* [Stability Fee](./content/Reference/param-stability-fee.md)
-* [System Surplus](./content/Reference/param-system-surplus-buffer.md)
+
+* [Price Function](parameters/param-auction-price-function.md)
+* [Auction Price Multiplier](parameters/param-auction-price-multiplier.md)
+* [Breaker Price Tolerance](parameters/param-breaker-price-tolerance.md)
+* [Debt Ceiling](parameters/param-debt-ceiling.md)
+* [Debt Floor](parameters/param-debt-floor.md)
+* [Flat Kick Incentive](parameters/param-flat-kick-incentive.md)
+* [Global Liquidation Limit](parameters/param-global-liquidation-limit.md)
+* [GSM Pause Delay](parameters/param-gsm-pause-delay.md)
+* [Liquidation Ratio](parameters/param-liquidation-ratio.md)
+* [Local Liquidation Limit](parameters/param-local-liquidation-limit.md)
+* [Max Auction Drawdown](parameters/param-max-auction-drawdown.md)
+* [Max Auction Duration](parameters/param-max-auction-duration.md)
+* [Proportional Kick Incentive](parameters/param-proportional-kick-incentive.md)
+* [Stability Fee](parameters/param-stability-fee.md)
+* [System Surplus](parameters/param-system-surplus-buffer.md)
 
 ## Reference
-* [Glossary](./content/Governance/Glossary.md)
+
+* [Glossary](reference/glossary.md)
+
