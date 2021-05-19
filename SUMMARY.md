@@ -14,7 +14,7 @@
 
 * [Tokens]()
   * [Dai](the-protocol/dai.md)
-  * [MKR Token](voting/voting-essentials/mkr-token.md)
+  * [MKR](voting/voting-essentials/mkr-token.md)
 * [Vaults](the-protocol/vault.md)
 * [Stability Fees](the-protocol/stability-fee.md)
 * [DSR](the-protocol/dsr.md)
