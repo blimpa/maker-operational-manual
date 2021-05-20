@@ -48,7 +48,8 @@
   * [Debt Floor](parameters/param-debt-floor.md)
   * [Liquidation Ratio](parameters/param-liquidation-ratio.md) 
  
- * [Modules]()
+## Modules 
+
   * [Module DC-IAM](the-protocol/module-dciam.md)
   * [Module PSM](the-protocol/module-psm.md)
 
