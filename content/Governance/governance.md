@@ -1,30 +1,20 @@
-<StatusBanner sticky>
-
-These are legacy guides and will not be maintened. Find the newer <Button  secondary inline to="/learn/governance/emergency-shutdown/"> Governance pages</Button>
-
-</StatusBanner>
-
 # Governance
-
-In addition to this FAQ, we encourage MKR holders to check out the [Voter Onboarding Guide](/learn/governance/voting-setup/) for a more detailed guide on how to begin voting.
 
 ## What is Governance?
 
 Governance is the process of interaction and decision-making among the stakeholders of a given system or organization. It is also the way rules, norms and actions are structured, sustained, regulated and upheld.
 
-## How is the Maker Protocol governed?
-
 In the context of MakerDAO, governance can be divided into two main parts: on-chain and off-chain.
 
-MKR token holders, who are the primary stakeholders of the system, vote using the Maker Protocol's on-chain governance system. There are two types of votes in this system, Governance Polls and Executive Votes. Anyone who owns MKR can participate in these votes.
+MKR token holders, who are the primary stakeholders of the system, vote using the Maker Protocol's on-chain governance system. There are two types of votes in this system: Governance Polls and Executive Votes. Anyone who owns MKR can participate in these votes.
 
-Stakeholders participate in governance off-chain by engaging with the community and other stakeholders in places like the [forums](https://forum.makerdao.com/) and the [public governance calls](/contribute/governance_and_risk_meetings). The [Interim Governance Facilitator](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264) is currently tasked with several administrative duties that keep the larger community organized, proactive, aware, and ready to make decisions.
+Stakeholders participate in governance off-chain by engaging with the community and other stakeholders in places like the [forum](https://forum.makerdao.com/) and the [public governance calls](/contribute/governance_and_risk_meetings). The [Governance Facilitators](https://mips.makerdao.com/mips/list?&search=$AND(%23cu-gov-001,%20%23active,%20%23facilitator)&subproposalsMode=true) are tasked with several administrative duties that keep the larger community organized, proactive, aware, and ready to make decisions.
 
-## Is there more than one type of vote?
+## Types of votes
 
 Currently, there are three types of voting that take place in Maker governance. These types of voting are ordered in terms of least to most consequential.
 
-**Forum Signal Threads**
+**Signal Requests**
 
 These occur off-chain on the MakerDAO [forum](https://forum.makerdao.com/). Forum signal threads measure the sentiment of the public governance community, and are used to:
 
@@ -55,53 +45,51 @@ Executive Votes can be used to:
 - Adjust Vault-specific parameters.
 - Replace modular smart contracts.
 
-## What does a forum signal thread look like?
+### Signal Requests
 
-A forum signal thread is a forum thread created with the purpose of finding consensus to take action about an issue or improvement idea within the MakerDAO community. A signal thread is also created according to a set of [semi-formal guidelines](https://forum.makerdao.com/t/signaling-guidelines/223).
+A signal resquest is a forum thread created with the purpose of finding consensus to take action about an issue or improvement idea within the MakerDAO community. A signal thread is also created according to a set of [semi-formal guidelines](https://forum.makerdao.com/t/signaling-guidelines/223).
 
 A signal thread may contain one or more polls as determined by the original poster of the thread. Additionally, there may be more than one signal thread that relates to a single issue so it may be appropriate to create a summary thread to capture the entire picture.
 
-A basic example of a forum signal thread can be found [here](https://forum.makerdao.com/t/signal-request-should-we-increase-the-scd-debt-ceiling/506)
+> A basic example of a forum signal thread can be found [here](https://forum.makerdao.com/t/signal-request-should-we-increase-the-scd-debt-ceiling/506)
 
-## Can anyone start a forum signal thread?
+Anyone may start these threads. Signal threads that stick to the guidelines and deal with issues that are important to the community tend to get more traction than those that don't.
 
-Yes, anyone may start these threads. Signal threads that stick to the guidelines and deal with issues that are important to the community tend to get more traction than those that don't.
-
-## What is the difference between a forum signal thread and a regular forum poll?
+#### What is the difference between a forum signal thread and a regular forum poll?
 
 A forum signal thread is created with the specific intention of gathering consensus around an issue and moving that issue to an on-chain Governance Poll. It is also suggested that it adhere to the [semi-formal signal guidelines](https://forum.makerdao.com/t/signaling-guidelines/223) that can be found within the governance forum.
 
 Regular forum polls can be used to measure community sentiment about anything and their use is encouraged. There are no guidelines on the general use of forum polls, other than courtesy and common sense.
 
-## How does a forum signal thread proceed to an on-chain Governance Poll?
+#### How does a forum signal thread proceed to an on-chain Governance Poll?
 
-Once a forum signal thread has been active for several weeks, and has been voted on by a reasonable number of community members, the creator of the signal thread will make a judgement call about whether to refine the signal thread further and post a new one, or that the current signal thread is enough to request that the Governance Facilitator push it to an on-chain governance poll.
+Once a forum signal thread has been active for several weeks, and has been voted on by a reasonable number of community members, the creator of the signal thread will make a judgement call about whether to refine the signal thread further and post a new one, or that the current signal thread is enough to request that the Governance Facilitators push it to an on-chain governance poll.
 
-If the Governance Facilitator agrees that the issue outlined in the signal thread(s) is ready to go on-chain, then the Governance Facilitator will create an on-chain Governance Poll in the form specified by the community consensus created in the signal thread(s).
+If the Governance Facilitators agree that the issue outlined in the signal thread(s) is ready to go on-chain, then the Governance Facilitators will create an on-chain Governance Poll in the form specified by the community consensus created in the signal thread(s).
 
 ## When do Governance Polls happen?
 
 A Governance Poll can be put on-chain at any time, however, the current schedule calls for polls to 'go live' on a weekly basis every Monday at 12pm EST/9am PST/14:00 UTC.
 
-## How long is the voting period of a Governance Poll?
+### How long is the voting period of a Governance Poll?
 
 The voting period of a given Governance Poll varies. Recurring polls of the same type are usually standardized and have the same duration. The most common are three and seven day periods. Concurrently running polls do not necessarily have the same voting periods.
 
-## Where can I find on-chain Governance Polls?
+### Where can I find on-chain Governance Polls?
 
 Live polls can be found on the ["Polling" tab](https://vote.makerdao.com/polling) in the [Governance Portal](https://vote.makerdao.com/). Historic poll data can be found at the [Maker Governance Analytics Dashboard](https://mkrgov.science/).
 
 User risks can be mitigated by using small test amounts beforehand, and by thoroughly checking which addresses one is interacting with.
 
-## Can anyone create an on-chain Governance Poll?
+### Can anyone create an on-chain Governance Poll?
 
-Yes, anyone can create an on-chain Governance Poll using the polling smart contract. However, there is no UI provided to do this yet. Currently, only the elected Governance Facilitator(s) are able to put up polls that display on the [Governance Portal](https://vote.makerdao.com), polls created by arbitrary Ethereum addresses **are not** displayed. In the future, the MKR token holders or any third parties may want to develop special UIs or other voting frontends.
+Yes, anyone can create an on-chain Governance Poll using the polling smart contract. However, there is no UI provided to do this yet. Currently, only the Governance Facilitators are able to put up polls that display on the [Governance Portal](https://vote.makerdao.com), polls created by arbitrary Ethereum addresses **are not** displayed. In the future, the MKR token holders or any third parties may want to develop special UIs or other voting frontends.
 
-## When do Executive Votes Happen?
+### When do Executive Votes Happen?
 
 An Executive Vote can occur at any time, however the current schedule calls for Executive Votes to go live on Fridays 12pm EST/9am PST/14:00 UTC
 
-## What is Continuous Approval Voting?
+### What is Continuous Approval Voting?
 
 There are three main aspects to Continuous Approval Voting. The first is that a vote creates a barrier for new proposals, since new proposals need to surpass the voting weight of the last successful proposal. Secondly, votes are meant to remain in the system continuously in order to prevent bad proposals from passing easily. Finally, the more votes there are on the current state of the system, the more secure the system generally is from any "rogue" proposals.
 
@@ -109,29 +97,29 @@ MKR token holders are tasked with maintaining the health of the system and the s
 
 In this model, the continuity of staked votes challenges and reinforces the status quo of the system through movements of the majority of votes between the most recent successful proposal and new proposals. To revert a change in the system an entirely new proposal must be put forth. It is impossible to reactivate an old proposal.
 
-## Why is the Continuous Approval Voting System necessary?
+### Why is the Continuous Approval Voting System necessary?
 
 The Executive Vote represents the current state of the system. As the state of the system is continuously active, it requires continuous governance. At any time a competing proposal to the system could be introduced. If MKR token holders do not agree with the new proposal, then they should cast their votes for the current state of the system (or leave MKR there if they were already voting for the current state), implying that they do not want to see anything changed.
 
 The continuity of the system is emphasized in the fact that a new proposal can be submitted at any time. Therefore, the system needs to be continuously monitored and governed, and thus requires a voting construct that reflects this need. The Continuous Approval Voting model solves this problem.
 
-## How Long is the Voting Period of an Executive Vote?
+### How Long is the Voting Period of an Executive Vote?
 
 Executive Votes do not conclude within a set period, which is part of the design of Continuous Approval Voting. For instance, if a vote does not garner enough votes at first, it may do so later if the proposal gains in popularity.
 
 Nonetheless, governance may propose Executive Votes that terminate after a certain amount of time.
 
-## Can anyone start an Executive Vote?
+### Can anyone start an Executive Vote?
 
 Yes, anyone can create an on-chain Executive Vote using the MakerDAO governance contracts. However, there is no non-technical UI available to do this. Users can create proposals, also known as ["Slates"](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation) through [this experimental portal](https://chief.makerdao.com/), or by interacting directly with the smart contracts.
 
 Executive Votes created by arbitrary Ethereum addresses will not display on the Maker Foundation's [Governance Portal,](https://vote.makerdao.com/) only the Governance Facilitator(s) are able to put up Executive Votes that display there. However, a more [technical version of the Governance Portal](https://chief.makerdao.com/) exists that lists all proposals irrespective of who created them.
 
-## Does anyone audit the code for the Executive Votes?
+### Does anyone audit the code for the Executive Votes?
 
 The public is encouraged to self-audit the code for each vote. There is a guide on how to do so found [here.](https://forum.makerdao.com/t/how-to-audit-executive-contract-code/1292/7?) The team creating these votes has been putting in significant effort to make it easy for non-technical people to audit the code by adding many explanatory notes within the code itself.
 
-## What are hats, slates, and spells?
+### What are hats, slates, and spells?
 
 There are terms often referenced when speaking about voting in the Maker Protocol. They refer to the technical details of how a given Executive Vote comes to pass. Heuristically, the hat can be thought of as a marker for the leading proposal, a slate as a proposal, and a spell as the action taken to execute the winning proposal.
 

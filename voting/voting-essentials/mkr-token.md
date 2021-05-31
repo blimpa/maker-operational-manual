@@ -10,11 +10,7 @@ description: MKR is an ERC-20 token that is native to the Maker Protocol.
 
 ## What is MKR?
 
-MKR is an ERC-20 token that is native to the Maker Protocol.
-
-## What is the MKR token used for?
-
-MKR is the governance token and recapitalization source of the Maker Protocol.
+MKR is an ERC-20 token that is native to the Maker Protocol. It is the governance token and recapitalization source of the Maker Protocol.
 
 ### MKR as a governance token
 
